@@ -6,4 +6,4 @@ All the Project Submissions have to done by making an issue in this repository. 
 4. The project repo should ideally be a **Private GitHub repository**. GitHub allows atmost 3 collaborators for private repos under its default FREE plan. You can redeem the FREE [Student Developer Pack](https://education.github.com/pack) to get unlimited private repos with unlimited collaborators.
 It's best to use your Institution provided email-id, otherwise you can also use your Institution ID card (slower approval).
 
-#### In case of any confusion, you can ask your nearest Hackfest Staff members to help you out with the same.
+#### In case of any confusion, you can ask your nearest HackFest Staff members to help you out with the same.
