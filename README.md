@@ -5,5 +5,6 @@ All the Project Submissions have to be done by making an issue in this repositor
 3. Only a **single issue** has to be made for each individual project, Multiple submissions will be termed as INVALID SUBMISSION.
 4. The project repo should ideally be a **Private GitHub repository**. GitHub allows atmost 3 collaborators for private repos under its default FREE plan. You can redeem the FREE [Student Developer Pack](https://education.github.com/pack) to get unlimited private repos with unlimited collaborators.
 It's best to use your Institution provided email-id, otherwise you can also use your Institution ID card (slower approval).
+5. Finally, add hackfest19 as a collaborator to your private repository.
 
 #### In case of any confusion, you can ask your nearest HackFest Staff members to help you out with the same.
